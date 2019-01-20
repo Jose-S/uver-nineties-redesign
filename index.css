@@ -4,6 +4,7 @@ body {
    margin: 0px;
    padding: 0px;
    font-family: Georgia, 'Times New Roman', Times, serif;
+   cursor: url("assets/ride.png"), auto;
 }
 
 h1 {
